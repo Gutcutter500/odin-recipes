@@ -1,0 +1,22 @@
+h1 {
+    background-color: aqua;
+    color: rebeccapurple;
+}
+
+.title1 {
+    color:salmon;
+}
+
+.title2 {
+    color:rgb(210, 223, 136);
+}
+
+.title3 {
+    color: orange;
+}
+
+.title1,
+.title2,
+.title3 {
+    background-color: slategrey;
+}
